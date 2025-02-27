@@ -97,6 +97,7 @@ The following list is sorted alphabetically:
  * [kebab](https://github.com/davidlazar/kebab) review,golang,unmaintained
  * [knoxite](https://github.com/knoxite/knoxite) review,golang,dedup,encrypted,authenticated,incremental,error-correction,compression,s3,gcs,ssh,webdav
  * [kopia](https://github.com/kopia/kopia) api,authenticated,compression,dedup,encryption,gcs,golang,incremental,s3,webdav,web-ui
+ * [mtsaver](https://github.com/mitoteam/mtsaver) compression,dedup,differential,encryption,filesystem,golang,7zip
  * [obnam](https://obnam.org/) unmaintained,encrypted,gpg
  * [ori](http://ori.scs.stanford.edu/) review
  * [preserve](https://github.com/cholcombe973/preserve) review,rust,dedup,encrypted,unmaintained
